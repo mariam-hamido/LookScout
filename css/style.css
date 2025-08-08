@@ -573,6 +573,12 @@ ul.resources__submenu {
         height: 50vh;
     }
 
+    .lookscout__footer__main__input .btn__subscribe {
+        position: absolute;
+        
+        right: 21%;
+    }
+
 }
 
 
@@ -655,6 +661,6 @@ ul.resources__submenu {
 }
 
 .blog__template__large__img img {
-        height: 30vh;
+        height: 32vh;
     }
 }
